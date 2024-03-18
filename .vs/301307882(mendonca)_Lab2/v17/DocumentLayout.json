@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\ManageSubscriptionForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagementGUI\\ManageSubscriptionForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagement\\NotificationManagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagement\\NotificationManagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\PublishNotificationForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagementGUI\\PublishNotificationForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\NotificationManagerForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagementGUI\\NotificationManagerForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\ManageSubscriptionForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagementGUI\\ManageSubscriptionForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\NotificationManagerForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagementGUI\\NotificationManagerForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\SendByPhoneNumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagementGUI\\SendByPhoneNumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\SendByEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagementGUI\\SendByEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\Publish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NotificationManagementGUI\\Publish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 399,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageSubscriptionForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\ManageSubscriptionForm.cs",
+              "RelativeDocumentMoniker": "NotificationManagementGUI\\ManageSubscriptionForm.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\ManageSubscriptionForm.cs",
+              "RelativeToolTip": "NotificationManagementGUI\\ManageSubscriptionForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:02:12.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagement\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagement\\Program.cs",
+              "RelativeToolTip": "NotificationManagement\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:01:42.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagement\\NotificationManagement.csproj",
+              "RelativeDocumentMoniker": "NotificationManagement\\NotificationManagement.csproj",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagement\\NotificationManagement.csproj",
+              "RelativeToolTip": "NotificationManagement\\NotificationManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T17:01:40.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\NotificationManagerForm.cs",
+              "RelativeDocumentMoniker": "NotificationManagementGUI\\NotificationManagerForm.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\NotificationManagerForm.cs",
+              "RelativeToolTip": "NotificationManagementGUI\\NotificationManagerForm.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIAywBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T21:23:31.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PublishNotificationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\PublishNotificationForm.Designer.cs",
+              "RelativeDocumentMoniker": "NotificationManagementGUI\\PublishNotificationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\PublishNotificationForm.Designer.cs",
+              "RelativeToolTip": "NotificationManagementGUI\\PublishNotificationForm.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:31:57.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageSubscriptionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\ManageSubscriptionForm.Designer.cs",
+              "RelativeDocumentMoniker": "NotificationManagementGUI\\ManageSubscriptionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\ManageSubscriptionForm.Designer.cs",
+              "RelativeToolTip": "NotificationManagementGUI\\ManageSubscriptionForm.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAywF4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:31:50.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationManagerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\NotificationManagerForm.Designer.cs",
+              "RelativeDocumentMoniker": "NotificationManagementGUI\\NotificationManagerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\NotificationManagerForm.Designer.cs",
+              "RelativeToolTip": "NotificationManagementGUI\\NotificationManagerForm.Designer.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAywFwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:31:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SendByPhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\SendByPhoneNumber.cs",
+              "RelativeDocumentMoniker": "NotificationManagementGUI\\SendByPhoneNumber.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\SendByPhoneNumber.cs",
+              "RelativeToolTip": "NotificationManagementGUI\\SendByPhoneNumber.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:31:32.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SendByEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\SendByEmail.cs",
+              "RelativeDocumentMoniker": "NotificationManagementGUI\\SendByEmail.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\SendByEmail.cs",
+              "RelativeToolTip": "NotificationManagementGUI\\SendByEmail.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:31:27.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Publish.cs",
+              "DocumentMoniker": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\Publish.cs",
+              "RelativeDocumentMoniker": "NotificationManagementGUI\\Publish.cs",
+              "ToolTip": "C:\\Users\\Lucia\\Desktop\\CENTENNIAL\\4_SEMESTER_W24\\PROGRAMMING_3\\ASSIGNMENT\\2\\301307882(mendonca)_Lab2\\NotificationManagementGUI\\Publish.cs",
+              "RelativeToolTip": "NotificationManagementGUI\\Publish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:31:24.07Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

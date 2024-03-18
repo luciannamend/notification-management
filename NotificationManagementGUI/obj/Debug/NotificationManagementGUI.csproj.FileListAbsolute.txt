@@ -1,0 +1,12 @@
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\bin\Debug\NotificationManagementGUI.exe.config
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\bin\Debug\NotificationManagementGUI.exe
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\bin\Debug\NotificationManagementGUI.pdb
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.csproj.AssemblyReference.cache
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.Properties.Resources.resources
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.csproj.GenerateResource.cache
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.exe
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.pdb
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.ManageSubscriptionForm.resources
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.NotificationManagerForm.resources
+C:\Users\Lucia\Desktop\CENTENNIAL\4_SEMESTER_W24\PROGRAMMING_3\ASSIGNMENT\2\301307882(mendonca)_Lab2\NotificationManagementGUI\obj\Debug\NotificationManagementGUI.PublishNotificationForm.resources
